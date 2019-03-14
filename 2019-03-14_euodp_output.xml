@@ -1,0 +1,1375 @@
+<analysis>
+ <output property="http://purl.org/dc/terms/created">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7264</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1541</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://publications.europa.eu/ontology/euvoc#XlNote</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">42</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://publications.europa.eu/ontology/euvoc#XlNotation</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">389944</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2008/05/skos-xl#Label</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/modified">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">12763</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13681</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#CatalogRecord</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">115</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">33</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://publications.europa.eu/ontology/euvoc#XlNote</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">26836</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2008/05/skos-xl#Label</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/extent">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/2000/01/rdf-schema#comment">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/2002/07/owl#versionInfo">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6503</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">14559</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://publications.europa.eu/ontology/euvoc#XlNotation</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">29039</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://publications.europa.eu/ontology/euvoc#XlNote</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7264</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">395153</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2008/05/skos-xl#Label</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">143</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2004/02/skos/core#ConceptScheme</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/2002/07/owl#priorVersion">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/description">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2911</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">29775</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">44030</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/title">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">53166</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">29601</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">45147</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#themeTaxonomy">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/publisher">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13610</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13581</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://xmlns.com/foaf/0.1/Agent</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://xmlns.com/foaf/0.1/name">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/issued">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6752</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13599</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#CatalogRecord</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">25125</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/spatial">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">174804</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">174818</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/Location</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#dataset">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#record">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/identifier">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">12138</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/adms#identifier">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/ns/adms#Identifier</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/2006/vcard/ns#hasEmail">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5863</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2006/vcard/ns#Kind</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#keyword">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">36704</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#contactPoint">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13611</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2006/vcard/ns#Kind</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/2006/vcard/ns#fn">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://xmlns.com/foaf/0.1/mbox">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://xmlns.com/foaf/0.1/primaryTopic">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13599</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#CatalogRecord</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/adms#status">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">20106</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core%23http://www.w3.org/2004/02/skos/core%23Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">20106</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#distribution">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">48493</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#accessURL">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">48521</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/license">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">48493</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/LicenseDocument</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">48493</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/format">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">23330</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">23345</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/MediaTypeOrExtent</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">46470</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">47364</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/MediaTypeOrExtent</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">234</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">441</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#theme">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">46496</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#landingPage">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13604</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/provenance">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://spdx.org/rdf/terms#ProvenanceStatement</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/locn#geometry">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/language">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8381</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/LinguisticSystem</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/LinguisticSystem</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/LinguisticSystem</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8381</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2439</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#CatalogRecord</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2439</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#CatalogRecord</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/LinguisticSystem</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/temporal">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8620</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/PeriodOfTime</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://schema.org/startDate">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8619</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://purl.org/dc/terms/PeriodOfTime</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://schema.org/endDate">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8488</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://purl.org/dc/terms/PeriodOfTime</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/accrualPeriodicity">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">172</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">517</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://purl.org/dc/terms/Frequency</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">498</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/rights">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#downloadURL">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">20617</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/type">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15972</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://data.europa.eu/88u/ontology/dcatapop#DocumentationType</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">358573</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/2008/05/skos-xl#Label</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15554</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30823</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://data.europa.eu/88u/ontology/dcatapop#DistributionType</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30823</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Distribution</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3217</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/conformsTo">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#mediaType">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://xmlns.com/foaf/0.1/page">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24750</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://xmlns.com/foaf/0.1/Document</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/source">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2518</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://publications.europa.eu/ontology/euvoc#XlNote</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/accessRights">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/dcat#byteSize">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://xmlns.com/foaf/0.1/homepage">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true"> </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/relation">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://purl.org/dc/terms/isVersionOf">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+     <binding name="class_object">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+ <output property="http://www.w3.org/ns/adms#versionNotes">
+  <sparql xmlns="http://www.w3.org/2005/sparql-results#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+   <head>
+    <variable name="s_count"/>
+    <variable name="class_subject"/>
+    <variable name="class_object"/>
+   </head>
+   <results distinct="false" ordered="true">
+    <result>
+     <binding name="s_count">
+      <literal datatype="http://www.w3.org/2001/XMLSchema#integer">93</literal>
+     </binding>
+     <binding name="class_subject">
+      <uri>http://www.w3.org/ns/dcat#Dataset</uri>
+     </binding>
+    </result>
+   </results>
+  </sparql>
+ </output>
+</analysis>
